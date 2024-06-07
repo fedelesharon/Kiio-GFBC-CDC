@@ -103,7 +103,7 @@ header h1 {
 }
 
 #services {
-    background-color: #FFD77C;
+    background-image: url(./images/background.jpg);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -128,8 +128,8 @@ header h1 {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #C9ECB5;
+    color: #666;
     text-align: center;
     padding: 10px 0;
     position: fixed;
